@@ -2,7 +2,7 @@ permalink: /:year/:month/:day/:title.html
 paginate: 10
 markdown: redcarpet
 
-# 者信息
+#者信息
 author: 
   name: Anya Lin
   email: lay.1010@hotmail.com
