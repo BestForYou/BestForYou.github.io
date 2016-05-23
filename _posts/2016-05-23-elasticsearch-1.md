@@ -4,7 +4,7 @@ title: 1.1 - ElasticSearch是什么?
 subtitle: 
 author: pizida
 date: 2016-05-23 14:44:56 +0800
-categories: ElasticSearch
+categories: ES搜索
 tag: ElasticSearch
 ---
 
