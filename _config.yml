@@ -4,35 +4,28 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
-  email: lay.1010@hotmail.com
-  link: http://painterlin.com
-  weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
-  music: http://site.douban.com/linanya
-  linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  name: Cai Da
+  email: Tony_v@126.com
+  weibo: http://weibo.com/caida_weibo
+  github: http://github.com/bestforyou
 
 # 站点信息
-title: 蔡达的博客
+title: BestForYou的博客
 description: My personal blog
-url: http://painterlin.com
-rss_url: /pages/atom.xml
+url: https://bestforyou.github.io
 
 # gavatar头像及Favicon
 gavatar: /public/img/deer3.png
 favicon: /public/img/deer3.png
 
 # google analytics 设置
-ga:
-  id: UA-54262064-1 
-  url: painterlin.com
+#ga:
+#  id: UA-54262064-1 
+#  url: painterlin.com
 
 # disqus 设置
 disqus:
   shortname: painterlin
-
-# 主题设置，自动激活某个标签
-active: 读书
 
 # 首页除了最新文章外显示分类
 #cates: 
@@ -41,7 +34,7 @@ active: 读书
 
 # 中文本地化
 locals:
-  tags: 标签
+  tags: 技术
   about: 关于
   newest: 最新文章
   archive: 归档
