@@ -1,6 +1,6 @@
 ---
 layout: post
-title: crontab里php使用相对路径的方法
+title: crontab里PHP使用相对路径的方法
 subtitle: 
 author: pizida
 date: 2016-05-19 14:23:03 +0800

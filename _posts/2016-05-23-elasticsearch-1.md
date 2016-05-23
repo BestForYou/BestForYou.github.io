@@ -4,7 +4,7 @@ title: 1.1 - ElasticSearch是什么?
 subtitle: 
 author: pizida
 date: 2016-05-23 14:44:56 +0800
-categories: ES搜索
+categories: 技术 
 tag: ElasticSearch
 ---
 
@@ -28,3 +28,5 @@ Elasticsearch也使用Java开发并使用Lucene作为其核心来实现所有索
 Elasticsearch在Apache 2 license下许可使用，可以免费下载、使用和修改。
 
 随着你对Elasticsearch的理解加深，你可以根据不同的问题领域定制Elasticsearch的高级特性，这一切都是可配置的，并且配置非常灵活。
+
+-- 摘自 ElasticSearch  权威指南		
