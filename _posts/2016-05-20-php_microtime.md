@@ -5,7 +5,7 @@ subtitle:
 author: pizida
 date: 2016-05-20 16:07:26 +0800
 categories: 
-tag: PH杂项
+tag: PHP杂项
 ---
 #### php记录代码执行时间
 ```
