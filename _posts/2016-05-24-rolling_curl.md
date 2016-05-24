@@ -4,7 +4,7 @@ title: PHP并发执行－curl
 subtitle: 
 author: pizida
 date: 2016-05-24 16:38:45 +0800
-categories: 技术
+categories: 
 tag: PHP杂项
 ---
 
