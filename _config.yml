@@ -35,6 +35,7 @@ disqus:
 # 中文本地化
 locals:
   tags: 技术
+  tags: 文章
   about: 关于
   newest: 最新文章
   archive: 归档
